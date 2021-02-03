@@ -1,7 +1,7 @@
 # DotNetInterviewQuestions
 DotNet interview Questions
 
-* Why Main is Static ?
+>1. Why Main is Static ?
 2. Advantage of Open close Principal
 3. Drawbacks of Open Close Principal
 4. Advantage of Overloading and Overriding
